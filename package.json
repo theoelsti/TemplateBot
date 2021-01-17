@@ -1,0 +1,34 @@
+{
+  "name": "templateBot",
+  "version": "1.0.10",
+  "description": "TAMPLATE BOT",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SSources/selfbot.git"
+  },
+  "author": "source x theo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SSources/selfbot/issues"
+  },
+  "homepage": "https://github.com/SSources/selfbot#readme",
+  "dependencies": {
+    "booru": "^2.4.0",
+    "chalk": "^4.1.0",
+    "discord.js": "^12.5.1",
+    "fs": "0.0.1-security",
+    "google-images": "^2.1.0",
+    "https": "^1.0.0",
+    "magic-home": "^2.6.1",
+    "node-hue-api": "^4.0.10",
+    "node-superfetch": "^0.1.10",
+    "nodemon": "^2.0.7",
+    "path": "^0.12.7",
+    "snekfetch": "^4.0.4",
+    "tuyapi": "github:codetheweb/tuyapi"
+  }
+}
